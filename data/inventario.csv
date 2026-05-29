@@ -1,0 +1,121 @@
+﻿id_registro,fecha,producto,categoria,proveedor,almacen,stock_actual,stock_minimo,stock_maximo,unidades_vendidas,unidades_recibidas,costo_unitario,precio_venta,valor_stock,estado_stock
+1,2025-01-03,Teclado Redragon K552,Accesorios,Global Retail Peru,Almacen Sur,78,15,70,5,1,75.00,120.00,5850.00,Sobrestock
+2,2025-01-06,Tinta Epson Original,Impresion,Importaciones Norte,Almacen Oriente,30,20,95,10,8,32.00,55.00,960.00,Normal
+3,2025-01-09,Tablet Samsung Galaxy Tab,Moviles,TechImport SAC,Almacen Norte,39,25,120,15,15,680.00,950.00,26520.00,Normal
+4,2025-01-12,Router TP-Link Archer,Redes,Global Retail Peru,Almacen Centro,48,30,85,20,22,145.00,230.00,6960.00,Normal
+5,2025-01-15,Laptop Lenovo IdeaPad,Computo,Importaciones Norte,Almacen Lima Central,30,35,110,25,29,2100.00,2850.00,63000.00,Critico
+6,2025-01-18,Mouse Logitech M170,Accesorios,TechImport SAC,Almacen Sur,158,40,135,30,36,28.00,45.00,4424.00,Sobrestock
+7,2025-01-21,Impresora Epson EcoTank,Impresion,Global Retail Peru,Almacen Oriente,75,45,100,35,43,470.00,650.00,35250.00,Normal
+8,2025-01-24,Smartphone Xiaomi Redmi Note,Moviles,Importaciones Norte,Almacen Norte,44,10,85,5,5,780.00,1100.00,34320.00,Normal
+9,2025-01-27,Escritorio Melamina 120cm,Oficina,TechImport SAC,Almacen Centro,53,15,110,10,12,260.00,430.00,13780.00,Normal
+10,2025-01-03,Disco SSD Kingston 1TB,Almacenamiento,Global Retail Peru,Almacen Lima Central,16,20,75,15,19,260.00,390.00,4160.00,Critico
+11,2025-02-05,Smartphone Samsung A54,Moviles,Distribuidora Andina,Almacen Centro,96,20,85,7,2,1050.00,1450.00,100800.00,Sobrestock
+12,2025-02-08,Silla Ergonomica OfficePro,Oficina,Soluciones Logisticas,Almacen Lima Central,36,25,110,12,9,320.00,520.00,11520.00,Normal
+13,2025-02-11,Switch TP-Link 8 Puertos,Redes,Mayorista Digital,Almacen Sur,45,30,75,17,16,95.00,155.00,4275.00,Normal
+14,2025-02-14,Laptop HP Pavilion,Computo,Distribuidora Andina,Almacen Oriente,54,35,100,22,23,2350.00,3150.00,126900.00,Normal
+15,2025-02-17,Teclado Redragon K552,Accesorios,Soluciones Logisticas,Almacen Norte,40,40,125,27,30,75.00,120.00,3000.00,Critico
+16,2025-02-20,Tinta Epson Original,Impresion,Mayorista Digital,Almacen Centro,116,45,90,32,37,32.00,55.00,3712.00,Sobrestock
+17,2025-02-23,Tablet Samsung Galaxy Tab,Moviles,Distribuidora Andina,Almacen Lima Central,41,10,75,37,44,680.00,950.00,27880.00,Normal
+18,2025-02-26,Router TP-Link Archer,Redes,Soluciones Logisticas,Almacen Sur,50,15,100,7,6,145.00,230.00,7250.00,Normal
+19,2025-02-02,Laptop Lenovo IdeaPad,Computo,Mayorista Digital,Almacen Oriente,59,20,65,12,13,2100.00,2850.00,123900.00,Normal
+20,2025-02-05,Mouse Logitech M170,Accesorios,Distribuidora Andina,Almacen Norte,20,25,90,17,20,28.00,45.00,560.00,Critico
+21,2025-03-07,Escritorio Melamina 120cm,Oficina,TechImport SAC,Almacen Oriente,114,25,100,9,3,260.00,430.00,29640.00,Sobrestock
+22,2025-03-10,Disco SSD Kingston 1TB,Almacenamiento,Global Retail Peru,Almacen Norte,42,30,125,14,10,260.00,390.00,10920.00,Normal
+23,2025-03-13,Monitor Samsung 24,Computo,Importaciones Norte,Almacen Centro,51,35,90,19,17,520.00,780.00,26520.00,Normal
+24,2025-03-16,Auriculares Sony WH-CH520,Accesorios,TechImport SAC,Almacen Lima Central,60,40,115,24,24,120.00,180.00,7200.00,Normal
+25,2025-03-19,Smartphone Samsung A54,Moviles,Global Retail Peru,Almacen Sur,44,45,140,29,31,1050.00,1450.00,46200.00,Critico
+26,2025-03-22,Silla Ergonomica OfficePro,Oficina,Importaciones Norte,Almacen Oriente,94,10,65,34,38,320.00,520.00,30080.00,Sobrestock
+27,2025-03-25,Switch TP-Link 8 Puertos,Redes,TechImport SAC,Almacen Norte,47,15,90,4,0,95.00,155.00,4465.00,Normal
+28,2025-03-01,Laptop HP Pavilion,Computo,Global Retail Peru,Almacen Centro,56,20,115,9,7,2350.00,3150.00,131600.00,Normal
+29,2025-03-04,Teclado Redragon K552,Accesorios,Importaciones Norte,Almacen Lima Central,65,25,80,14,14,75.00,120.00,4875.00,Normal
+30,2025-03-07,Tinta Epson Original,Impresion,TechImport SAC,Almacen Sur,30,30,105,19,21,32.00,55.00,960.00,Critico
+31,2025-04-09,Laptop Lenovo IdeaPad,Computo,Mayorista Digital,Almacen Lima Central,132,30,115,11,4,2100.00,2850.00,277200.00,Sobrestock
+32,2025-04-12,Mouse Logitech M170,Accesorios,Distribuidora Andina,Almacen Sur,48,35,80,16,11,28.00,45.00,1344.00,Normal
+33,2025-04-15,Impresora Epson EcoTank,Impresion,Soluciones Logisticas,Almacen Oriente,57,40,105,21,18,470.00,650.00,26790.00,Normal
+34,2025-04-18,Smartphone Xiaomi Redmi Note,Moviles,Mayorista Digital,Almacen Norte,66,45,130,26,25,780.00,1100.00,51480.00,Normal
+35,2025-04-21,Escritorio Melamina 120cm,Oficina,Distribuidora Andina,Almacen Centro,8,10,55,31,32,260.00,430.00,2080.00,Critico
+36,2025-04-24,Disco SSD Kingston 1TB,Almacenamiento,Soluciones Logisticas,Almacen Lima Central,85,15,80,36,39,260.00,390.00,22100.00,Sobrestock
+37,2025-04-27,Monitor Samsung 24,Computo,Mayorista Digital,Almacen Sur,53,20,105,6,1,520.00,780.00,27560.00,Normal
+38,2025-04-03,Auriculares Sony WH-CH520,Accesorios,Distribuidora Andina,Almacen Oriente,62,25,70,11,8,120.00,180.00,7440.00,Normal
+39,2025-04-06,Smartphone Samsung A54,Moviles,Soluciones Logisticas,Almacen Norte,71,30,95,16,15,1050.00,1450.00,74550.00,Normal
+40,2025-04-09,Silla Ergonomica OfficePro,Oficina,Mayorista Digital,Almacen Centro,34,35,120,21,22,320.00,520.00,10880.00,Critico
+41,2025-05-11,Teclado Redragon K552,Accesorios,Importaciones Norte,Almacen Norte,150,35,130,13,5,75.00,120.00,11250.00,Sobrestock
+42,2025-05-14,Tinta Epson Original,Impresion,TechImport SAC,Almacen Centro,54,40,95,18,12,32.00,55.00,1728.00,Normal
+43,2025-05-17,Tablet Samsung Galaxy Tab,Moviles,Global Retail Peru,Almacen Lima Central,63,45,120,23,19,680.00,950.00,42840.00,Normal
+44,2025-05-20,Router TP-Link Archer,Redes,Importaciones Norte,Almacen Sur,32,10,105,28,26,145.00,230.00,4640.00,Normal
+45,2025-05-23,Laptop Lenovo IdeaPad,Computo,TechImport SAC,Almacen Oriente,12,15,70,33,33,2100.00,2850.00,25200.00,Critico
+46,2025-05-26,Mouse Logitech M170,Accesorios,Global Retail Peru,Almacen Norte,103,20,95,3,40,28.00,45.00,2884.00,Sobrestock
+47,2025-05-02,Impresora Epson EcoTank,Impresion,Importaciones Norte,Almacen Centro,59,25,120,8,2,470.00,650.00,27730.00,Normal
+48,2025-05-05,Smartphone Xiaomi Redmi Note,Moviles,TechImport SAC,Almacen Lima Central,68,30,85,13,9,780.00,1100.00,53040.00,Normal
+49,2025-05-08,Escritorio Melamina 120cm,Oficina,Global Retail Peru,Almacen Sur,77,35,110,18,16,260.00,430.00,20020.00,Normal
+50,2025-05-11,Disco SSD Kingston 1TB,Almacenamiento,Importaciones Norte,Almacen Oriente,38,40,135,23,23,260.00,390.00,9880.00,Critico
+51,2025-06-13,Smartphone Samsung A54,Moviles,Soluciones Logisticas,Almacen Sur,108,40,85,15,6,1050.00,1450.00,113400.00,Sobrestock
+52,2025-06-16,Silla Ergonomica OfficePro,Oficina,Mayorista Digital,Almacen Oriente,60,45,110,20,13,320.00,520.00,19200.00,Normal
+53,2025-06-19,Switch TP-Link 8 Puertos,Redes,Distribuidora Andina,Almacen Norte,29,10,95,25,20,95.00,155.00,2755.00,Normal
+54,2025-06-22,Laptop HP Pavilion,Computo,Soluciones Logisticas,Almacen Centro,38,15,60,30,27,2350.00,3150.00,89300.00,Normal
+55,2025-06-25,Teclado Redragon K552,Accesorios,Mayorista Digital,Almacen Lima Central,16,20,85,35,34,75.00,120.00,1200.00,Critico
+56,2025-06-01,Tinta Epson Original,Impresion,Distribuidora Andina,Almacen Sur,121,25,110,5,41,32.00,55.00,3872.00,Sobrestock
+57,2025-06-04,Tablet Samsung Galaxy Tab,Moviles,Soluciones Logisticas,Almacen Oriente,65,30,75,10,3,680.00,950.00,44200.00,Normal
+58,2025-06-07,Router TP-Link Archer,Redes,Mayorista Digital,Almacen Norte,74,35,100,15,10,145.00,230.00,10730.00,Normal
+59,2025-06-10,Laptop Lenovo IdeaPad,Computo,Distribuidora Andina,Almacen Centro,83,40,125,20,17,2100.00,2850.00,174300.00,Normal
+60,2025-06-13,Mouse Logitech M170,Accesorios,Soluciones Logisticas,Almacen Lima Central,42,45,90,25,24,28.00,45.00,1176.00,Critico
+61,2025-07-15,Escritorio Melamina 120cm,Oficina,Global Retail Peru,Almacen Centro,126,45,100,17,7,260.00,430.00,32760.00,Sobrestock
+62,2025-07-18,Disco SSD Kingston 1TB,Almacenamiento,Importaciones Norte,Almacen Lima Central,26,10,85,22,14,260.00,390.00,6760.00,Normal
+63,2025-07-21,Monitor Samsung 24,Computo,TechImport SAC,Almacen Sur,35,15,110,27,21,520.00,780.00,18200.00,Normal
+64,2025-07-24,Auriculares Sony WH-CH520,Accesorios,Global Retail Peru,Almacen Oriente,44,20,75,32,28,120.00,180.00,5280.00,Normal
+65,2025-07-27,Smartphone Samsung A54,Moviles,Importaciones Norte,Almacen Norte,20,25,100,37,35,1050.00,1450.00,21000.00,Critico
+66,2025-07-03,Silla Ergonomica OfficePro,Oficina,TechImport SAC,Almacen Centro,139,30,125,7,42,320.00,520.00,44480.00,Sobrestock
+67,2025-07-06,Switch TP-Link 8 Puertos,Redes,Global Retail Peru,Almacen Lima Central,71,35,90,12,4,95.00,155.00,6745.00,Normal
+68,2025-07-09,Laptop HP Pavilion,Computo,Importaciones Norte,Almacen Sur,80,40,115,17,11,2350.00,3150.00,188000.00,Normal
+69,2025-07-12,Teclado Redragon K552,Accesorios,TechImport SAC,Almacen Oriente,89,45,140,22,18,75.00,120.00,6675.00,Normal
+70,2025-07-15,Tinta Epson Original,Impresion,Global Retail Peru,Almacen Norte,6,10,65,27,25,32.00,55.00,192.00,Critico
+71,2025-08-17,Laptop Lenovo IdeaPad,Computo,Distribuidora Andina,Almacen Oriente,104,10,75,19,8,2100.00,2850.00,218400.00,Sobrestock
+72,2025-08-20,Mouse Logitech M170,Accesorios,Soluciones Logisticas,Almacen Norte,32,15,100,24,15,28.00,45.00,896.00,Normal
+73,2025-08-23,Impresora Epson EcoTank,Impresion,Mayorista Digital,Almacen Centro,41,20,65,29,22,470.00,650.00,19270.00,Normal
+74,2025-08-26,Smartphone Xiaomi Redmi Note,Moviles,Distribuidora Andina,Almacen Lima Central,50,25,90,34,29,780.00,1100.00,39000.00,Normal
+75,2025-08-02,Escritorio Melamina 120cm,Oficina,Soluciones Logisticas,Almacen Sur,30,30,115,4,36,260.00,430.00,7800.00,Critico
+76,2025-08-05,Disco SSD Kingston 1TB,Almacenamiento,Mayorista Digital,Almacen Oriente,97,35,80,9,43,260.00,390.00,25220.00,Sobrestock
+77,2025-08-08,Monitor Samsung 24,Computo,Distribuidora Andina,Almacen Norte,77,40,105,14,5,520.00,780.00,40040.00,Normal
+78,2025-08-11,Auriculares Sony WH-CH520,Accesorios,Soluciones Logisticas,Almacen Centro,86,45,130,19,12,120.00,180.00,10320.00,Normal
+79,2025-08-14,Smartphone Samsung A54,Moviles,Mayorista Digital,Almacen Lima Central,15,10,55,24,19,1050.00,1450.00,15750.00,Normal
+80,2025-08-17,Silla Ergonomica OfficePro,Oficina,Distribuidora Andina,Almacen Sur,10,15,80,29,26,320.00,520.00,3200.00,Critico
+81,2025-09-19,Teclado Redragon K552,Accesorios,TechImport SAC,Almacen Lima Central,95,15,90,21,9,75.00,120.00,7125.00,Sobrestock
+82,2025-09-22,Tinta Epson Original,Impresion,Global Retail Peru,Almacen Sur,38,20,115,26,16,32.00,55.00,1216.00,Normal
+83,2025-09-25,Tablet Samsung Galaxy Tab,Moviles,Importaciones Norte,Almacen Oriente,47,25,80,31,23,680.00,950.00,31960.00,Normal
+84,2025-09-01,Router TP-Link Archer,Redes,TechImport SAC,Almacen Norte,56,30,105,36,30,145.00,230.00,8120.00,Normal
+85,2025-09-04,Laptop Lenovo IdeaPad,Computo,Global Retail Peru,Almacen Centro,34,35,130,6,37,2100.00,2850.00,71400.00,Critico
+86,2025-09-07,Mouse Logitech M170,Accesorios,Importaciones Norte,Almacen Lima Central,115,40,95,11,44,28.00,45.00,3220.00,Sobrestock
+87,2025-09-10,Impresora Epson EcoTank,Impresion,TechImport SAC,Almacen Sur,83,45,120,16,6,470.00,650.00,39010.00,Normal
+88,2025-09-13,Smartphone Xiaomi Redmi Note,Moviles,Global Retail Peru,Almacen Oriente,52,10,105,21,13,780.00,1100.00,40560.00,Normal
+89,2025-09-16,Escritorio Melamina 120cm,Oficina,Importaciones Norte,Almacen Norte,61,15,70,26,20,260.00,430.00,15860.00,Normal
+90,2025-09-19,Disco SSD Kingston 1TB,Almacenamiento,TechImport SAC,Almacen Centro,20,20,95,31,27,260.00,390.00,5200.00,Critico
+91,2025-10-21,Smartphone Samsung A54,Moviles,Mayorista Digital,Almacen Norte,113,20,105,23,10,1050.00,1450.00,118650.00,Sobrestock
+92,2025-10-24,Silla Ergonomica OfficePro,Oficina,Distribuidora Andina,Almacen Centro,44,25,70,28,17,320.00,520.00,14080.00,Normal
+93,2025-10-27,Switch TP-Link 8 Puertos,Redes,Soluciones Logisticas,Almacen Lima Central,53,30,95,33,24,95.00,155.00,5035.00,Normal
+94,2025-10-03,Laptop HP Pavilion,Computo,Mayorista Digital,Almacen Sur,62,35,120,3,31,2350.00,3150.00,145700.00,Normal
+95,2025-10-06,Teclado Redragon K552,Accesorios,Distribuidora Andina,Almacen Oriente,38,40,85,8,38,75.00,120.00,2850.00,Critico
+96,2025-10-09,Tinta Epson Original,Impresion,Soluciones Logisticas,Almacen Norte,133,45,110,13,0,32.00,55.00,4256.00,Sobrestock
+97,2025-10-12,Tablet Samsung Galaxy Tab,Moviles,Mayorista Digital,Almacen Centro,49,10,95,18,7,680.00,950.00,33320.00,Normal
+98,2025-10-15,Router TP-Link Archer,Redes,Distribuidora Andina,Almacen Lima Central,58,15,60,23,14,145.00,230.00,8410.00,Normal
+99,2025-10-18,Laptop Lenovo IdeaPad,Computo,Soluciones Logisticas,Almacen Sur,67,20,85,28,21,2100.00,2850.00,140700.00,Normal
+100,2025-10-21,Mouse Logitech M170,Accesorios,Mayorista Digital,Almacen Oriente,24,25,110,33,28,28.00,45.00,672.00,Critico
+101,2025-11-23,Escritorio Melamina 120cm,Oficina,Importaciones Norte,Almacen Sur,131,25,120,25,11,260.00,430.00,34060.00,Sobrestock
+102,2025-11-26,Disco SSD Kingston 1TB,Almacenamiento,TechImport SAC,Almacen Oriente,50,30,85,30,18,260.00,390.00,13000.00,Normal
+103,2025-11-02,Monitor Samsung 24,Computo,Global Retail Peru,Almacen Norte,59,35,110,35,25,520.00,780.00,30680.00,Normal
+104,2025-11-05,Auriculares Sony WH-CH520,Accesorios,Importaciones Norte,Almacen Centro,68,40,135,5,32,120.00,180.00,8160.00,Normal
+105,2025-11-08,Smartphone Samsung A54,Moviles,TechImport SAC,Almacen Lima Central,42,45,100,10,39,1050.00,1450.00,44100.00,Critico
+106,2025-11-11,Silla Ergonomica OfficePro,Oficina,Global Retail Peru,Almacen Sur,111,10,85,15,1,320.00,520.00,35520.00,Sobrestock
+107,2025-11-14,Switch TP-Link 8 Puertos,Redes,Importaciones Norte,Almacen Oriente,55,15,110,20,8,95.00,155.00,5225.00,Normal
+108,2025-11-17,Laptop HP Pavilion,Computo,TechImport SAC,Almacen Norte,64,20,75,25,15,2350.00,3150.00,150400.00,Normal
+109,2025-11-20,Teclado Redragon K552,Accesorios,Global Retail Peru,Almacen Centro,73,25,100,30,22,75.00,120.00,5475.00,Normal
+110,2025-11-23,Tinta Epson Original,Impresion,Importaciones Norte,Almacen Lima Central,28,30,125,35,29,32.00,55.00,896.00,Critico
+111,2025-12-25,Laptop Lenovo IdeaPad,Computo,Soluciones Logisticas,Almacen Centro,89,30,75,27,12,2100.00,2850.00,186900.00,Sobrestock
+112,2025-12-01,Mouse Logitech M170,Accesorios,Mayorista Digital,Almacen Lima Central,56,35,100,32,19,28.00,45.00,1568.00,Normal
+113,2025-12-04,Impresora Epson EcoTank,Impresion,Distribuidora Andina,Almacen Sur,65,40,125,37,26,470.00,650.00,30550.00,Normal
+114,2025-12-07,Smartphone Xiaomi Redmi Note,Moviles,Soluciones Logisticas,Almacen Oriente,74,45,90,7,33,780.00,1100.00,57720.00,Normal
+115,2025-12-10,Escritorio Melamina 120cm,Oficina,Mayorista Digital,Almacen Norte,6,10,75,12,40,260.00,430.00,1560.00,Critico
+116,2025-12-13,Disco SSD Kingston 1TB,Almacenamiento,Distribuidora Andina,Almacen Centro,129,15,100,17,2,260.00,390.00,33540.00,Sobrestock
+117,2025-12-16,Monitor Samsung 24,Computo,Soluciones Logisticas,Almacen Lima Central,61,20,65,22,9,520.00,780.00,31720.00,Normal
+118,2025-12-19,Auriculares Sony WH-CH520,Accesorios,Mayorista Digital,Almacen Sur,70,25,90,27,16,120.00,180.00,8400.00,Normal
+119,2025-12-22,Smartphone Samsung A54,Moviles,Distribuidora Andina,Almacen Oriente,79,30,115,32,23,1050.00,1450.00,82950.00,Normal
+120,2025-12-25,Silla Ergonomica OfficePro,Oficina,Soluciones Logisticas,Almacen Norte,32,35,80,37,30,320.00,520.00,10240.00,Critico
